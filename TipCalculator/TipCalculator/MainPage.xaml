@@ -26,6 +26,7 @@
                 <Label
                     x:Name="TipLabel"
                     Text="R$: 0,00"
+                    
                     />
             </HorizontalStackLayout>
 
@@ -44,7 +45,7 @@
                      Text="Porcentagem de gorjeta:"
                 />
                 <Label
-                    Text="PercentaheSlider"
+                    Text="0%"
                     x:Name="TipPercentageLabel"
                 />
             </HorizontalStackLayout>
